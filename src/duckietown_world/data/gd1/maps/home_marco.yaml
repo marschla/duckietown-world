@@ -95,8 +95,8 @@ objects:
     pose:
       ~SE2Transform:
         p:
-        - 0.153
-        - 0.15000000000000002
+        - 0.1405
+        - 0.14350000000000002
         theta_deg: 135
     tag:
       ~TagInstance:

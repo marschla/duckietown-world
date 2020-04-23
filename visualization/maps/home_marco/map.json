@@ -4,6 +4,38 @@
     },
     "~PlacedObject": {
         "children": {
+            "tag300": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag301": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag303": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag360": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag361": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag362": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag363": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag364": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
             "tilemap": {
                 "~TileMap": {
                     "H": 3,
@@ -1133,6 +1165,141 @@
         },
         "spatial_relations": {
             "0": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag300"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta": 3.9269908169872414,
+                            "p": [
+                                1.6099999999999999,
+                                0.15200000000000002
+                            ]
+                        }
+                    }
+                }
+            },
+            "1": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag301"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 45,
+                            "p": [
+                                0.14100000000000001,
+                                1.607
+                            ]
+                        }
+                    }
+                }
+            },
+            "2": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag303"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta": 5.497787143782138,
+                            "p": [
+                                1.6115,
+                                1.621
+                            ]
+                        }
+                    }
+                }
+            },
+            "3": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag360"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 90,
+                            "p": [
+                                1.1324999999999998,
+                                0.723
+                            ]
+                        }
+                    }
+                }
+            },
+            "4": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag361"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 270,
+                            "p": [
+                                0.6465,
+                                0.981
+                            ]
+                        }
+                    }
+                }
+            },
+            "5": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag362"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "p": [
+                                0.7729999999999999,
+                                0.6465
+                            ]
+                        }
+                    }
+                }
+            },
+            "6": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag363"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 180,
+                            "p": [
+                                1.008,
+                                1.1315
+                            ]
+                        }
+                    }
+                }
+            },
+            "7": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag364"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta": 2.356194490192345,
+                            "p": [
+                                0.1405,
+                                0.14350000000000002
+                            ]
+                        }
+                    }
+                }
+            },
+            "8": {
                 "~GroundTruth": {},
                 "~SpatialRelation": {
                     "b": [
