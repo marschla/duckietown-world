@@ -1,0 +1,7 @@
+# 3x3 tiles with left turns at the corners going in a counter-clockwise loop
+tiles:
+- [curve_left/N , straight/W, curve_left/E]
+- [straight/S   , asphalt   , straight/N]
+- [curve_left/W , straight/E, curve_left/S]
+
+tile_size: 0.61
