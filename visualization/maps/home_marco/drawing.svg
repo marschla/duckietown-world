@@ -440,7 +440,7 @@
               </g>
             </g>
           </g>
-          <g class="FloorTag" id="tag300" transform="matrix(-0.70710677,-0.70710677,0.70710677,-0.70710677,1.61,0.152)">
+          <g class="FloorTag" id="tag300" transform="matrix(-0.70710677,-0.70710677,0.70710677,-0.70710677,1.613,0.155)">
             <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAuUlEQVR4nO2aQQqEMBAEN8v+/8vxAckhO8aUDVVHQUnR0IyOrff+SeZLH+AuCtAoQPMbL7XWzp9jkbEz4xNQgEYBmniBSY3eYay5xVIu3xifgAI0CtBsbqEy5QkyPgEFaBSgiRdYrdHysLXyqCkOcyEoQBMvUB/mFsvk6f1DfAIK0ChAs/mV8vxuIT4BBWgUoIkXqNfotDHdD/yNAjQK0LSNX6wO4M8e70MBGgVoJjWaRXwCCtAoQHMBIPgnhrCybOsAAAAASUVORK5CYII=" y="-0.04"/>
           </g>
           <g class="FloorTag" id="tag301" transform="matrix(0.70710677,0.70710677,-0.70710677,0.70710677,0.141,1.607)">

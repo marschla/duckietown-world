@@ -1,6 +1,6 @@
 {
     "~DuckietownMap": {
-        "tile_size": 0.61
+        "tile_size": 0.585
     },
     "~PlacedObject": {
         "children": {
@@ -1017,7 +1017,7 @@
                                     "~TileCoords": {
                                         "i": 1,
                                         "j": 2,
-                                        "orientation": "W"
+                                        "orientation": "E"
                                     }
                                 }
                             }
@@ -1047,7 +1047,7 @@
                                     "~TileCoords": {
                                         "i": 0,
                                         "j": 1,
-                                        "orientation": "S"
+                                        "orientation": "N"
                                     }
                                 }
                             }
@@ -1077,7 +1077,7 @@
                                     "~TileCoords": {
                                         "i": 2,
                                         "j": 1,
-                                        "orientation": "N"
+                                        "orientation": "S"
                                     }
                                 }
                             }
@@ -1107,7 +1107,7 @@
                                     "~TileCoords": {
                                         "i": 1,
                                         "j": 0,
-                                        "orientation": "E"
+                                        "orientation": "W"
                                     }
                                 }
                             }
@@ -1140,7 +1140,7 @@
                     ],
                     "transform": {
                         "~Scale2D": {
-                            "scale": 0.61
+                            "scale": 0.585
                         }
                     }
                 }

@@ -1,4 +1,4 @@
-#!/home/marco/dt-env-developer/src/duckietown-world/duckietown-world-venv/bin/python3
+#!/home/marco/duckietown-world/duckietown-world-venv/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'duckietown-world-daffy','console_scripts','dt-world-draw-maps'
 __requires__ = 'duckietown-world-daffy'
 import re
