@@ -15,7 +15,7 @@
          
     ]]>    </style>
   </defs>
-  <g id="base" transform="translate(2.0243383183950323e-14, 640.0) scale(364.67237185582735) scale(+1,-1)">
+  <g id="base" transform="translate(1.9413734862136133e-14, 640.0) scale(349.7267563639436) scale(+1,-1)">
     <g id="grid">
       <rect fill="none" height="1" stroke="#eeeeee" stroke-width="0.01" width="1" x="-1" y="-1"/>
       <rect fill="none" height="1" stroke="#eeeeee" stroke-width="0.01" width="1" x="-1" y="0"/>
@@ -39,7 +39,7 @@
             <line stroke="red" stroke-width="0.01" x1="0" x2="0.1" y1="0" y2="0"/>
             <line stroke="green" stroke-width="0.01" x1="0" x2="0" y1="0" y2="0.1"/>
           </g>
-          <g class="TileMap" id="tilemap" transform="matrix(0.585,0.0,0.0,0.585,0.0,0.0)">
+          <g class="TileMap" id="tilemap" transform="matrix(0.61,0.0,0.0,0.61,0.0,0.0)">
             <g class="axes">
               <line stroke="red" stroke-width="0.01" x1="0" x2="0.1" y1="0" y2="0"/>
               <line stroke="green" stroke-width="0.01" x1="0" x2="0" y1="0" y2="0.1"/>
@@ -100,7 +100,7 @@
                 </g>
               </g>
             </g>
-            <g class="Tile" id="tile-0-1" transform="matrix(6.123234e-17,1.0,-1.0,6.123234e-17,0.5,1.5)">
+            <g class="Tile" id="tile-0-1" transform="matrix(-1.8369701e-16,-1.0,1.0,-1.8369701e-16,0.5,1.5)">
               <rect fill="#222" height="1.0" stroke="none" width="1.0" x="-0.5" y="-0.5"/>
               <use xlink:href="#texture-straight"/>
               <g class="axes">
@@ -198,7 +198,7 @@
                 </g>
               </g>
             </g>
-            <g class="Tile" id="tile-1-0" transform="matrix(-1.0,1.2246469e-16,-1.2246469e-16,-1.0,1.5,0.5)">
+            <g class="Tile" id="tile-1-0" transform="matrix(1.0,0.0,-0.0,1.0,1.5,0.5)">
               <rect fill="#222" height="1.0" stroke="none" width="1.0" x="-0.5" y="-0.5"/>
               <use xlink:href="#texture-straight"/>
               <g class="axes">
@@ -248,7 +248,7 @@
                 <line stroke="green" stroke-width="0.01" x1="0" x2="0" y1="0" y2="0.1"/>
               </g>
             </g>
-            <g class="Tile" id="tile-1-2" transform="matrix(1.0,0.0,-0.0,1.0,1.5,2.5)">
+            <g class="Tile" id="tile-1-2" transform="matrix(-1.0,1.2246469e-16,-1.2246469e-16,-1.0,1.5,2.5)">
               <rect fill="#222" height="1.0" stroke="none" width="1.0" x="-0.5" y="-0.5"/>
               <use xlink:href="#texture-straight"/>
               <g class="axes">
@@ -346,7 +346,7 @@
                 </g>
               </g>
             </g>
-            <g class="Tile" id="tile-2-1" transform="matrix(-1.8369701e-16,-1.0,1.0,-1.8369701e-16,2.5,1.5)">
+            <g class="Tile" id="tile-2-1" transform="matrix(6.123234e-17,1.0,-1.0,6.123234e-17,2.5,1.5)">
               <rect fill="#222" height="1.0" stroke="none" width="1.0" x="-0.5" y="-0.5"/>
               <use xlink:href="#texture-straight"/>
               <g class="axes">
@@ -448,7 +448,7 @@
         </g>
         <g class="keyframe keyframe0"/>
       </g>
-      <rect fill="none" height="1.754999965429306" id="view" stroke="black" stroke-width="0.01" width="1.754999965429306" x="-5.551115123125783e-17" y="-5.551115123125783e-17"/>
+      <rect fill="none" height="1.830000102519989" id="view" stroke="black" stroke-width="0.01" width="1.830000102519989" x="-5.551115123125783e-17" y="-5.551115123125783e-17"/>
     </g>
   </g>
 </svg>

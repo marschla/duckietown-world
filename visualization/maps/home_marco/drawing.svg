@@ -440,10 +440,10 @@
               </g>
             </g>
           </g>
-          <g class="FloorTag" id="tag300" transform="matrix(-0.70710677,-0.70710677,0.70710677,-0.70710677,1.613,0.155)">
+          <g class="FloorTag" id="tag300" transform="matrix(-0.70710677,-0.70710677,0.70710677,-0.70710677,1.6195,0.147)">
             <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAuUlEQVR4nO2aQQqEMBAEN8v+/8vxAckhO8aUDVVHQUnR0IyOrff+SeZLH+AuCtAoQPMbL7XWzp9jkbEz4xNQgEYBmniBSY3eYay5xVIu3xifgAI0CtBsbqEy5QkyPgEFaBSgiRdYrdHysLXyqCkOcyEoQBMvUB/mFsvk6f1DfAIK0ChAs/mV8vxuIT4BBWgUoIkXqNfotDHdD/yNAjQK0LSNX6wO4M8e70MBGgVoJjWaRXwCCtAoQHMBIPgnhrCybOsAAAAASUVORK5CYII=" y="-0.04"/>
           </g>
-          <g class="FloorTag" id="tag301" transform="matrix(0.70710677,0.70710677,-0.70710677,0.70710677,0.141,1.607)">
+          <g class="FloorTag" id="tag301" transform="matrix(0.70710677,0.70710677,-0.70710677,0.70710677,0.135,1.618)">
             <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAvUlEQVR4nO2aUQoDIQwFm9L7X9keQAvBph0ezHyKgkPgkbhba61HMk/6At+iAI0CNK99qar+f48me2bGV0ABGgVo4gUOMXrk1z3fdXbHV0ABGgVouinUZA+TPb6OgdPcthNfAQVoFKCJF+jGaCcfPy1e7OkTXwEFaBSgGW7mOsy+/MVXQAEaBWiGH7aaLdMg8RVQgEYBmniB4ZGyc/CIL3OxKEATL3A/Us5Ohn6ljEUBGgVoyj93YRSgUYDmDTliJ49mEyoxAAAAAElFTkSuQmCC" y="-0.04"/>
           </g>
           <g class="FloorTag" id="tag303" transform="matrix(0.70710677,-0.70710677,0.70710677,0.70710677,1.6115,1.621)">
