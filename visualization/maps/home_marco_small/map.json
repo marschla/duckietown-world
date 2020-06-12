@@ -16,6 +16,14 @@
                 "~FloorTag": {},
                 "~PlacedObject": {}
             },
+            "tag304": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag305": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
             "tag364": {
                 "~FloorTag": {},
                 "~PlacedObject": {}
@@ -945,6 +953,40 @@
                 "~GroundTruth": {},
                 "~SpatialRelation": {
                     "b": [
+                        "tag304"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 90,
+                            "p": [
+                                1.096,
+                                0.59
+                            ]
+                        }
+                    }
+                }
+            },
+            "4": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag305"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 270,
+                            "p": [
+                                0.65,
+                                0.592
+                            ]
+                        }
+                    }
+                }
+            },
+            "5": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
                         "tag364"
                     ],
                     "transform": {
@@ -958,7 +1000,7 @@
                     }
                 }
             },
-            "4": {
+            "6": {
                 "~GroundTruth": {},
                 "~SpatialRelation": {
                     "b": [
